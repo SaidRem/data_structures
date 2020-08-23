@@ -1,4 +1,5 @@
 # Binary Search Trees
+# Time complexity for search, insert, delete: O(log n)
 
 
 class Node:
