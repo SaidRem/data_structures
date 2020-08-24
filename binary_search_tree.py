@@ -1,4 +1,6 @@
-# Binary Search Trees
+# Binary Search Tree is a rooted binary tree whose internal
+# nodes each store a key greater than all the keys in the node's
+# left subtree and less than those in its right subtree.
 # Time complexity for search, insert, delete: O(log n)
 
 
