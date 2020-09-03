@@ -1,3 +1,8 @@
+# Binary search
+# Average time complexity is O(log n).
+# Worst case is O(n).
+
+
 def binary_search(arr, target):
     high = len(arr) - 1
     low = 0
