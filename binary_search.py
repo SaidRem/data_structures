@@ -1,4 +1,5 @@
-# Binary search
+# Binary search is a search algorithm that finds the
+# position of a target value within a sorted array.
 # Average time complexity is O(log n).
 # Worst case is O(n).
 
