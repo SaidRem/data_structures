@@ -8,6 +8,7 @@
 
 
 class Node:
+    """create node in binary tree"""
     def __init__(self, data):
         self.right = self.left = None
         self.data = data
