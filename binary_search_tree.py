@@ -4,8 +4,12 @@
 # Binary search tree support three main operations:
 # insertion of elements, deletion of elements and lookup
 # - checking whether a key is present.
+
 # Time complexity for search, insert, delete: O(log n)
 
+# Binary search requires an order relation by which every element
+# can be compared with every other element in the sense of a total
+# preorder.
 
 class Node:
     """create node in binary tree"""
