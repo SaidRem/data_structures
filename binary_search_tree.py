@@ -9,7 +9,10 @@
 
 # Binary search requires an order relation by which every element
 # can be compared with every other element in the sense of a total
-# preorder.
+# preorder. The parts of the element which effectively takes place in
+# the comparison is called its key. Whether, duplicates, i.e. different
+# elements with the same key, shall be allowed in the tree or not, does not
+# depend on the order relation, but on the application only.
 
 class Node:
     """create node in binary tree"""
