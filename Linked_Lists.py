@@ -1,8 +1,9 @@
 # A Node insert function has two parameters: a pointer, head,
 # pointing to the first node of a linked list, and an integer
 # def value that must be added to the end of the list as a new Node object
-# Time to access item in linked list O(n)
-# Time to add item in linked list O(1)
+# Time to access an item in linked list O(n)
+# Time to insert an item in linked list O(1)
+# Time to delete an item - O(1)
 
 class Node:
     def __init__(self, data):
